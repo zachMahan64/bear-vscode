@@ -14,8 +14,8 @@ Syntax highlighting for the Bear language.
 1. install the VSCode Extension CLI: `npm install -g @vscode/vsce`
 2. From inside the extension folder: `vsce package`
 3. This produces `bear-language-0.0.1.vsix`, or whatever the current version is.
-4. install it via: `code --install-extension bear-language-0.0.1.vsix`
-   or via VSCode UI: Extensions → `...` → Install from VSIX.
+4. install it via: `code --install-extension bear-language-0.0.1.vsix` or via VSCode UI: Extensions → `...` → Install from VSIX.
+    - to get the `code` command, you need to install vscode CLI or enable it within VSCode by running ctrl+shift+p / cmd+shift+p -> shell command: install code command in path  
 
 
 ## Package
