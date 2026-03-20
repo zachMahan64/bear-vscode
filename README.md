@@ -1,6 +1,20 @@
-# Bear Language VSCode Extension
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/bear-language/bear-vscode/blob/main/images/bear-logo-text-dark.png?raw=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/bear-language/bear-vscode/blob/main/images/bear-logo-text-light.png?raw=true">
+    <img alt="The Bear Programming Language"
+         src="https://raw.githubusercontent.com/zachMahan64/bear-vscode/refs/heads/main/images/bear-logo.png"
+         width="50%">
+  </picture>
 
-Syntax highlighting for the Bear language.
+</div>
+
+# The Official VSCode Extension for Bear
+
+Features
+--------
+- Syntax highlighting for the Bear language
+- More planned!
 
 ## Install locally
 
