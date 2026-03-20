@@ -1,7 +1,7 @@
 {
   "name": "bear-language",
   "displayName": "Bear Language",
-  "description": "Extension adding support for Bear in VSCode. As of now, this just adds syntax highlighting for the Bear language",
+  "description": "Extension adding support for Bear in VSCode. As of now, this just adds syntax highlighting for the Bear language, but more features are planned.",
   "version": "0.0.1",
   "author": {
     "name": "Zach Mahan",
