@@ -9,13 +9,13 @@
     "url": "https://github.com/zachMahan64"
   },
   "license": "GNU GPLv3",
-  "homepage": "https://github.com/zachMahan64/bear-vscode",
+  "homepage": "https://github.com/bear-language/bear-vscode",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zachMahan64/bear-vscode.git"
+    "url": "https://github.com/bear-language/bear-vscode.git"
   },
   "bugs": {
-    "url": "https://github.com/zachMahan64/bear-vscode/issues"
+    "url": "https://github.com/bear-language/bear-vscode/issues"
   },
   "keywords": ["bear", "syntax highlighting", "language", "bear-lang"],
   "icon": "images/bear-logo.png",
